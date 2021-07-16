@@ -1,6 +1,6 @@
 # Hello, folks! 
 
-My name is Rafael Medeiros and I'm a software developer/devOps enginner. 
+My name is Rafael Medeiros and I'm a fullstack developer. 
 
 I'm from Brazil, living in Rio de Janeiro and currently working at Tax Company.
 
