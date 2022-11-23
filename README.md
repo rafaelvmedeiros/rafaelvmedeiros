@@ -2,7 +2,7 @@
 
 My name is Rafael Medeiros and I'm a fullstack developer. 
 
-I'm from Brazil, living in Rio de Janeiro and currently working at Tax Company.
+I'm from Brazil, living in Rio de Janeiro.
 
 You can find me on  [![LinkedIn][1.1]][1] 
 
